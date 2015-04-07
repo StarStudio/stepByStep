@@ -43,3 +43,10 @@ Established in 1998, Stars Studio of UESTC was a student society affiliated by S
 ##移动开发方向
 
 ##系统运维方向
+- linux常用命令的使用
+- vim编辑器
+- 账号与组的管理
+- 进程管理
+- 熟悉网络结构
+- shell编程
+
