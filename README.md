@@ -45,10 +45,11 @@ Established in 1998, Stars Studio of UESTC was a student society affiliated by S
 ##系统运维方向
 - [linux常用命令的使用](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 - vim编辑器<ul><li> [Arch](https://wiki.archlinux.org/index.php/Vim_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
--         [IBM](https://www.ibm.com/developerworks/cn/linux/l-cn-tip-vim/)</ul>
-- 账号与组的管理
+-         [IBM](https://www.ibm.com/developerworks/cn/linux/l-cn-tip-vim/)</ul>    
+-         账号与组的管理<ul><li>[Arch](https://wiki.archlinux.org/index.php/Users_and_groups_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))    
+-         [鸟哥](http://vbird.dic.ksu.edu.tw/linux_basic/fedora_4/0410accountmanager-fc4.php)</ul>
 - 进程管理
-- 熟悉网络结构
+- [熟悉网络结构](http://vbird.dic.ksu.edu.tw/linux_server/0110network_basic.php)
 - [shell编程](http://man.lupaworld.com/content/develop/advance_bash_scriipt_progaming_guide.pdf)
 - [正则表达式](http://pan.baidu.com/wap/link?uk=2769149005&shareid=603381&third=0)
 
