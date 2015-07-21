@@ -45,8 +45,8 @@ Established in 1998, Stars Studio of UESTC was a student society affiliated by S
 ##系统运维方向
 - [linux常用命令的使用](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 - vim编辑器
--          [Arch](https://wiki.archlinux.org/index.php/Vim_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
--          [IBM](https://www.ibm.com/developerworks/cn/linux/l-cn-tip-vim/)
+-          <ul><li>[Arch](https://wiki.archlinux.org/index.php/Vim_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
+-         <li>[IBM](https://www.ibm.com/developerworks/cn/linux/l-cn-tip-vim/)
 - 账号与组的管理
 - 进程管理
 - 熟悉网络结构
