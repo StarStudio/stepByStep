@@ -39,7 +39,23 @@ Established in 1998, Stars Studio of UESTC was a student society affiliated by S
 ##前端开发方向
 
 ##后端开发方向
-
+学习资料：
+-html/css基础，推荐[w3school在线教程](http://www.w3school.com.cn)
+-php基础，推荐书目《细说PHP》lamp兄弟连著，看到高级开发之前就行
+-博客园php方向文章
+需要了解的知识：
+-了解html/css,以及熟悉javascript
+-“黄金搭档”mysql与php的结合
+-php常用模块，如：登陆，验证码，分页类
+-php框架,建议CI以及ThinkPHP、yii
+安全开发：
+-书籍推荐
+基础：《黑客攻防技术宝典web实战篇》、《sql注入攻击与防御》
+进阶（需要一定基础）：《白帽子讲web安全》、《web前端黑客技术揭秘》
+-推荐网站：
+[乌云知识库](http://drops.wooyun.org)
+[Freebuf](http://www.freebuf.com)
+[91ri安全攻防指南](https://www.91ri.org/)
 ##移动开发方向
 学习资料：
 1. 《java jdk7学习笔记》看到多线程就行
