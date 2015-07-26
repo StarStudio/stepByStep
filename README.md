@@ -40,16 +40,36 @@ Established in 1998, Stars Studio of UESTC was a student society affiliated by S
 
 ##后端开发方向
 
+学习资料：
+- html/css基础，推荐[w3school在线教程](http://www.w3school.com.cn)
+- php基础，推荐书目《细说PHP》lamp兄弟连著，看到高级开发之前就行
+- 博客园php方向文章
+
+需要了解的知识：
+- 了解html/css,以及熟悉javascript
+- “黄金搭档”mysql与php的结合
+- php常用模块，如：登陆，验证码，分页类
+- php框架,建议CI以及ThinkPHP、yii
+
+安全开发：
+- 书籍推荐<br>
+基础：《黑客攻防技术宝典web实战篇》、《sql注入攻击与防御》<br>
+进阶（需要一定基础）：《白帽子讲web安全》、《web前端黑客技术揭秘》
+- 推荐网站：<br>
+[乌云知识库](http://drops.wooyun.org)<br>
+[Freebuf](http://www.freebuf.com)<br>
+[91ri安全攻防指南](https://www.91ri.org/)
+
 ##移动开发方向
 学习资料：
-1. 《java jdk7学习笔记》看到多线程就行
-2. 《android第一行代码》拿着看，仔细了解作者的意图，也可以看郭霖在csdn上的博客
-3. developer.android.com 已墙，自备翻墙工具
+- 《java jdk7学习笔记》看到多线程就行
+- 《android第一行代码》拿着看，仔细了解作者的意图，也可以看郭霖在csdn上的博客
+- developer.android.com 已墙，自备翻墙工具
 要了解的知识：
-1. 数据库原理，起码要搞清楚sql到底是什么，怎么写，关系型数据库系统的原理
-2. 计算机网络的基本原理，传输层之上的，了解面向字节的套接字通信，http请求的格式，json，xml的解析
-3. 操作系统的基础知识，linux系统是什么回事，android系统到底是怎么回事，是怎样de架构
-4. 怎么看前后台接口文档，怎么写需求文档
+- 数据库原理，起码要搞清楚sql到底是什么，怎么写，关系型数据库系统的原理
+- 计算机网络的基本原理，传输层之上的，了解面向字节的套接字通信，http请求的格式，json，xml的解析
+- 操作系统的基础知识，linux系统是什么回事，android系统到底是怎么回事，是怎样de架构
+- 怎么看前后台接口文档，怎么写需求文档
 
 ##系统运维方向
 - linux常用命令的使用
