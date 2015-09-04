@@ -1,6 +1,6 @@
 #星辰新人培训仓库
 
-为使工作室新人可以尽快了解工作室，++欢迎工作室成员向本仓库添加内容，让工作室越来越好。
+为使工作室新人可以尽快了解工作室，有明确的学习目的和学习目标，特此总结各个方向的学习路线。也欢迎工作室成员向本仓库添加内容，让工作室越来越好。如需加入团队，请将姓名与邮箱填写在issue中交由管理员审核。（项目灵感源自[@SysLab-newcomer](https://github.com/Sys-Lab/SysLab-newcomer)）
 
 ##工作室简介
 
@@ -34,13 +34,24 @@
     * [stackoverflow](https://stackoverflow.com/)
     * [伯乐在线](http://blog.jobbole.com/)
     * [知乎](http://www.zhihu.com)
-    * [翻墙神器ss](https://github.com/shadowsocks/shadowsocks)
 
-##产品测试方向
+##产品设计方向
+
+详见：产品经理的基本知识.doc
 
 ##界面设计方向
 
+
+
 ##前端开发方向
+
+ - html/css/js基础，推荐[w3school在线教程](http://www.w3school.com.cn)
+ - [前端学习网站推荐](https://github.com/foru17/front-end-collect)
+ - 书籍推荐：河畔搜索“留给母校”，有前端群群主的书籍推荐帖
+ - 代码规范：
+   - 主参考：[AlloyTeam](http://alloyteam.github.io/CodeGuide/)
+   - 辅助参考：[百度前端代码规范](https://github.com/leeight/Baidu-FE-Code-Style)
+ - UESTC前端交流群：225843473
 
 ##后端开发方向
 
