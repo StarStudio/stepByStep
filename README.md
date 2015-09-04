@@ -68,7 +68,7 @@ Established in 1998, Stars Studio of UESTC was a student society affiliated by S
 要了解的知识：
 - 数据库原理，起码要搞清楚sql到底是什么，怎么写，关系型数据库系统的原理
 - 计算机网络的基本原理，传输层之上的，了解面向字节的套接字通信，http请求的格式，json，xml的解析
-- 操作系统的基础知识，linux系统是什么回事，android系统到底是怎么回事，是怎样de架构
+- 操作系统的基础知识，linux系统是什么回事，android系统到底是怎么回事，是怎样的架构
 - 怎么看前后台接口文档，怎么写需求文档
 
 ##系统运维方向
