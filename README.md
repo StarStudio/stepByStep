@@ -4,13 +4,17 @@
 
 ##工作室简介
 
-电子科技大学星辰工作室建立于1998 年，是隶属于学工部的学生社团，主要从事软件开发，网站建设与维护等信息化工作。在工作室十年的发展过程中逐步积累了一套完整的项目开发管理制度，人才培养和新老交替机制，形成了工作室自己文化传统。“心态决定命运，技术决定未来！”一直是星辰工作室的口号。
+星辰工作室建于1998 年，隶属于网络文化建设办公室，主要从事软件开发，网站建设与维护等信息化工作，曾先后开发和维护了以下项目：成电导航网，电子科技大学清水河畔官方论坛，学生信息管理系统，电子科大学生之家网站，电子科大就业网，勤工助学网，学工部网站，学工部办公平台，部分部门及学院官网等。“我们年轻，我们执著，我们奋斗，我们走向卓越！” 星辰工作室成员信心满怀的走向成功。
 
-Established in 1998, Stars Studio of UESTC was a student society affiliated by Student Affair Department. It mainly focuses on the information work as software development, website construction and maintenance etc. During its ten years’ development, Stars Studio has established the project development system and the personnel training and staff updating system, thus having its own studio culture. “Attitudes creates one’s destiny, technology makes one’s future” is always the slogan of StarStudio.
+##主要工作
 
-星辰工作室曾先后开发了以下项目：学生之家系列网站，包括学生之家主页，音乐站，软件站，新闻抓取引擎，招新系统；学生之家内网搜索引擎；清水河畔BBS网站；贷款smis系统；电子科技大学就业网；学工部主页；学工部办公平台；奖贷助勤网；星辰网志系统；学风督查系统；优班创建系统；学生学习与发展指导中心等。
+1.开发及维护学工部、部分学院、就业网等网站
+2.运营电子科技大学清水河畔官方论坛
+3.规划设计校园网络产品，技术推进校园网络文化建设
 
-以上羞耻的内容来源于互动百科。。。。
+##特色成绩
+
+清水河畔官方论坛；名师博客群；成电导航网；学生之家系列网站；贷款系统；电子科技大学就业网；学工部网站；学工部办公平台；奖贷助勤网；学风督查系统；优班创建系统；学生学习与发展指导中心；国资处、审计处、纪检委等部门网站；通信学院等学院网站。
 
 ##学习准备
 
