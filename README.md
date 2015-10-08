@@ -60,9 +60,9 @@ Established in 1998, Stars Studio of UESTC was a student society affiliated by S
 [91ri安全攻防指南](https://www.91ri.org/)
 
 #####其他
-* [python](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)
-* [javascript](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
-* [Linux](http://vbird.dic.ksu.edu.tw/)
+* [python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)
+* [javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+* [Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 
 ##移动开发方向
 学习资料：
