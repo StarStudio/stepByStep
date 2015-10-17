@@ -49,6 +49,8 @@
  - html/css/js基础，推荐[w3school在线教程](http://www.w3school.com.cn)
  - [前端学习网站推荐](https://github.com/foru17/front-end-collect)
  - 书籍推荐：河畔搜索“留给母校”，有前端群群主的书籍推荐帖
+ - 书籍推荐：Head First 系列
+ - 书籍推荐：精通CSS系列、众妙之门系列 
  - 代码规范：
    - 主参考：[AlloyTeam](http://alloyteam.github.io/CodeGuide/)
    - 辅助参考：[百度前端代码规范](https://github.com/leeight/Baidu-FE-Code-Style)
@@ -102,3 +104,16 @@
 - [shell编程](http://man.lupaworld.com/content/develop/advance_bash_scriipt_progaming_guide.pdf)
 - [正则表达式](http://pan.baidu.com/wap/link?uk=2769149005&shareid=603381&third=0)
 
+##前端实训题目
+
+#####前端实训第一题
+- 实现一个简单的表单 包含一个输入框 一个提交按钮 输入框和提交按钮大家可以随意安排样式 但是不能是默认样式 点击提交按钮 会弹出输入框中的内容并清空输入框 若输入框为空 则点击提交按钮会弹出“请输入内容” 不限制实现方式 只要求实现功能 大家可以在这个简单的表单里 发挥自己的创意 希望可以看到每个同学的个性 和自己的技术水平
+- 上交实训一的同学接下去的任务
+- 实现设计图： http://pan.baidu.com/s/1dDtxVbF 或重构群文件中的现在的工作室首页
+#####关于git的小任务
+- https://github.com/LeuisKen/URLs 在这个仓库 给我提交一个issuse 写上自己的名字 并把仓库fork到自己的github上 做出一些修改 然后给我提交一个pull request
+
+##魏学长的经验总结
+- [对于写代码有什么不明白的 可以参考我之前发的经验总结](http://leuisken.github.io/2015/08/08/web-dev-tools/)
+
+- [代码规范（参考AlloyTeam）](http://alloyteam.github.io/CodeGuide/)
