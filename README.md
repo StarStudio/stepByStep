@@ -28,6 +28,8 @@
  - 掌握[markdown](https://guides.github.com/features/mastering-markdown/)
  - 阅读并尝试使用[GitHub工作流程](https://guides.github.com/introduction/flow/)
  - [翻墙](http://www.appifan.com/jc/201209/35517.html)
+ - [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
+ - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
  - 相关网站推荐
     * [新浪SAE](http://sae.sina.com.cn/)
     * [TaoCode](http://code.taobao.org/)
@@ -48,10 +50,10 @@
 
  - html/css/js基础，推荐[w3school在线教程](http://www.w3school.com.cn)
  - [前端学习网站推荐](https://github.com/foru17/front-end-collect)
- - [书籍推荐](http://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=1154050)
- - 代码规范：
-   - 主参考：[AlloyTeam](http://alloyteam.github.io/CodeGuide/)
-   - 辅助参考：[百度前端代码规范](https://github.com/leeight/Baidu-FE-Code-Style)
+ - [高级前端开发的一些积累](https://github.com/jsfront)
+ - 代码规范：[AlloyTeam](http://alloyteam.github.io/CodeGuide/)
+ - [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+ - [前端收集](https://github.com/jsfront/front-end-collect)
  - UESTC前端交流群：225843473
 
 ##后端开发方向
@@ -79,6 +81,7 @@
 * [python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)
 * [javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 * [Linux私房菜](http://vbird.dic.ksu.edu.tw/)
+* [《Node.js 包教不包会》](https://github.com/alsotang/node-lessons)
 
 ##移动开发方向
 学习资料：
