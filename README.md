@@ -48,7 +48,7 @@
 
  - html/css/js基础，推荐[w3school在线教程](http://www.w3school.com.cn)
  - [前端学习网站推荐](https://github.com/foru17/front-end-collect)
- - 书籍推荐：河畔搜索“留给母校”，有前端群群主的书籍推荐帖
+ - [书籍推荐](http://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=1154050)
  - 代码规范：
    - 主参考：[AlloyTeam](http://alloyteam.github.io/CodeGuide/)
    - 辅助参考：[百度前端代码规范](https://github.com/leeight/Baidu-FE-Code-Style)
