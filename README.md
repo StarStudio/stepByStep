@@ -49,9 +49,9 @@
 ## 前端开发方向
 
  - html/css/js基础，推荐[w3school在线教程](http://www.w3school.com.cn)和[MDN](https://developer.mozilla.org/zh-CN/)
- - [高级前端开发的一些积累](https://github.com/jsfront)
+ - [JavaScript秘密花园](https://github.com/StarStudio/stepByStep)
  - 代码规范：[AlloyTeam](http://alloyteam.github.io/CodeGuide/)
- - [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+ - [前端工作面试问题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
  - [前端资料收集](https://github.com/jsfront/front-end-collect)
  - 推荐订阅[奇舞周刊](http://old.75team.com/weekly/)
  - UESTC前端交流群：225843473
