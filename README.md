@@ -27,7 +27,6 @@
  - 了解[issue](https://guides.github.com/features/issues/)
  - 掌握[markdown](https://guides.github.com/features/mastering-markdown/)
  - 阅读并尝试使用[GitHub工作流程](https://guides.github.com/introduction/flow/)
- - [翻墙](http://www.appifan.com/jc/201209/35517.html)
  - [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
  - 相关网站推荐
