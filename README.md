@@ -23,10 +23,9 @@
 ## 准备启程
 
  - [Git教程（廖雪峰）](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
- - 了解[fork](https://guides.github.com/activities/forking/)
- - 了解[issue](https://guides.github.com/features/issues/)
+ - [基于git的源代码管理模型——git flow](http://www.ituring.com.cn/article/56870)
+ - [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
  - 掌握[markdown](https://guides.github.com/features/mastering-markdown/)
- - 阅读并尝试使用[GitHub工作流程](https://guides.github.com/introduction/flow/)
  - [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
  - 相关网站推荐
@@ -34,7 +33,6 @@
     * [TaoCode](http://code.taobao.org/)
     * [stackoverflow](https://stackoverflow.com/)
     * [伯乐在线](http://blog.jobbole.com/)
-    * [知乎](http://www.zhihu.com)
 
 ## 产品设计方向
 
@@ -42,8 +40,7 @@
 
 ## 界面设计方向
 
-[UI养成计划](http://1.arris.sinaapp.com/starui.html)
-
+[UI养成计划](./UI-level-up.md)
 
 ## 前端开发方向
 
