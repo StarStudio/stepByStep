@@ -22,10 +22,12 @@
 
 ## 准备启程
 
+ - 学会翻墙、使用 Google
+ - [提问的智慧](http://lilydjwg.vim-cn.com/articles/smart-questions.html)
  - [Git教程（廖雪峰）](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
  - [基于git的源代码管理模型——git flow](http://www.ituring.com.cn/article/56870)
  - [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
- - 掌握[markdown](https://guides.github.com/features/mastering-markdown/)
+ - 掌握 [markdown](https://guides.github.com/features/mastering-markdown/)
  - [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
  - 相关网站推荐
@@ -91,6 +93,9 @@
 - 怎么看前后台接口文档，怎么写需求文档
 
 ## 系统运维方向
+
+[SA指引](./SA%E6%8C%87%E5%BC%95.md)
+
 - [linux常用命令的使用](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 - vim编辑器<ul><li> [Arch](https://wiki.archlinux.org/index.php/Vim_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 -         [IBM](https://www.ibm.com/developerworks/cn/linux/l-cn-tip-vim/)</ul>    
