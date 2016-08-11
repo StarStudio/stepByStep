@@ -23,6 +23,7 @@
 ## 准备启程
 
  - 学会翻墙、使用 Google
+ - [WEB开发新人指南](./web-new-comer.md)
  - [提问的智慧](http://lilydjwg.vim-cn.com/articles/smart-questions.html)
  - [Git教程（廖雪峰）](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
  - [基于git的源代码管理模型——git flow](http://www.ituring.com.cn/article/56870)
