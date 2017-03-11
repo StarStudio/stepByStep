@@ -102,10 +102,11 @@ Shell 脚本编程和 Linux 环境进阶
 **时长: 4~6周**       
 **参考资料:**
 	
-1. 《高级 Bash 脚本编程指南》
+1. 《高级 Bash 脚本编程指南》（[HTML version on TLDP](http://tldp.org/LDP/abs/html/)）
 2. 《Linux 命令行与 Shell 脚本编程大全》
 3. [极客学院 Wiki](http://wiki.jikexueyuan.com/project/shell-tutorial/shell-brief-introduction.html)
 4. [Linux 工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
+5. [Google shell style guide](http://zh-google-styleguide.readthedocs.io/en/latest/google-shell-styleguide/background/)
 
 Python 入门
 - 
@@ -127,6 +128,7 @@ Python 入门
 2. 官方手册
 3. [廖雪峰的网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 4. [深入 Python3](http://www.ttlsa.com/docs/dive-into-python3/)
+5. [Googel python style guide](http://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
 
 What's more?
 -
